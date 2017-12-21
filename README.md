@@ -1,1 +1,1 @@
-#AndroidMVPObject我是傻子
+#AndroidMVPObject
